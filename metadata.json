@@ -1,0 +1,6 @@
+{
+  "name": "E-Voting Ketua Labkom",
+  "description": "Sistem pemilihan digital untuk Ketua Laboratorium Komputer dengan fitur login, registrasi, manajemen data, dan hasil real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
